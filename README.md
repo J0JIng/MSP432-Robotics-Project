@@ -2,6 +2,5 @@
 microcontroller system design for SC2107
 
 
-
-
-- "i stand on shoulders of giants"
+---
+"I stand on shoulders of giants"

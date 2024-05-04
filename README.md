@@ -1,5 +1,4 @@
-# MSP432-Project
-Microcontroller system design for SC2107
+# MSP432-Project-SC2107
 
 ### RSLK MAX Robotic Kit Application:
 This application demonstrates various tests and functionalities for the RSLK MAX Robotic Kit using UART communication with the MSP432 processor.

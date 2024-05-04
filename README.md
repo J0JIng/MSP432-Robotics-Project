@@ -36,8 +36,18 @@ The RSLK MAX Robotic Kit includes the following components:
 - **Running the Program**:
   - In the debug mode of CCS, clicking on the 'resume' icon will execute the program on the MSP432 microcontroller.
 
-
 ### Usage:
+Main usage of the microcontroller includes:
+   - **Motor Test:** `BSC_MotorTest()`
+   - **IR Sensor Test:** `BSC_IRTest()`
+   - **Bumper Test:** `BSC_BumperTest()`
+   - **Reflectance Sensor Test:** `BSC_ReflectanceTest()`
+   - **Tachometer Test:** `BSC_TachometerTest()`
+   - **Simultaneous Bump Test:** `ADV_BumpTest()`
+   - **Line Following Test:** `ADV_LineFollowTest()`
+
+Follow the on-screen instructions to execute the selected test function.
+Utilize the UART communication to view the test results and monitor the system behavior.
 
 ---
 "I stand on shoulders of giants"
